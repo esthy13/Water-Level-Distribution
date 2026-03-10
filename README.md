@@ -1,8 +1,5 @@
 # Water Level Distribution
-
-The Water Level Distribution project aims to analyze and predict water levels based on historical data. Utilizing deep learning and time series techniques, this project provides insights and reliable predictions to aid in water management and planning.
-
----
+Project for the Deep Learning course year 2024/2025
 
 ## Problem Statement
 Accurate prediction of water levels is crucial for preventing floods and managing water resources. Traditional methods may not provide the required accuracy, which is where this project steps in by leveraging data-driven approaches.
